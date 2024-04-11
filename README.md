@@ -25,3 +25,5 @@
 
 И параметры командной строки: 
 --file-log "access.log" --file-output "results.txt" --time-start "10.04.2024" --time-end "10.04.2024"
+
+Проект выполнен в среде MS Visual Studio 2019
